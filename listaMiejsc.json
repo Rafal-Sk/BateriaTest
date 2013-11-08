@@ -1,0 +1,2102 @@
+﻿[
+  {
+    "_id": "50199bb8f07a3c51efc8afb1",
+    "latitude": 32.843,
+    "name": "Wally",
+    "longitude": -117.1507,
+    "description": "Siberian Husky",
+    "coords": [
+      -117.1507,
+      32.843
+    ],
+    "date": "1970-01-16T11:54:14.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afb2",
+    "latitude": 32.9486,
+    "name": "Choo",
+    "longitude": -117.1713,
+    "description": "Brittany",
+    "coords": [
+      -117.1713,
+      32.9486
+    ],
+    "date": "1970-01-16T12:02:52.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afb3",
+    "latitude": 32.9518,
+    "name": "Woofer",
+    "longitude": -117.2094,
+    "description": "Fox Terrier",
+    "coords": [
+      -117.2094,
+      32.9518
+    ],
+    "date": "1970-01-16T11:13:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afb4",
+    "latitude": 32.9032,
+    "name": "Chew",
+    "longitude": -117.1952,
+    "description": "German Shepard",
+    "coords": [
+      -117.1952,
+      32.9032
+    ],
+    "date": "1970-01-16T11:49:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afb5",
+    "latitude": 32.9467,
+    "name": "Ruff",
+    "longitude": -117.2165,
+    "description": "Harrier",
+    "coords": [
+      -117.2165,
+      32.9467
+    ],
+    "date": "1970-01-16T11:19:40.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afb6",
+    "latitude": 32.9711,
+    "name": "Chomp",
+    "longitude": -117.1275,
+    "description": "Bloodhound",
+    "coords": [
+      -117.1275,
+      32.9711
+    ],
+    "date": "1970-01-16T11:12:28.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afb7",
+    "latitude": 32.8308,
+    "name": "Boof",
+    "longitude": -117.1357,
+    "description": "Irish Setter",
+    "coords": [
+      -117.1357,
+      32.8308
+    ],
+    "date": "1970-01-16T12:02:52.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afb8",
+    "latitude": 32.9498,
+    "name": "Slim",
+    "longitude": -117.2357,
+    "description": "Pug",
+    "coords": [
+      -117.2357,
+      32.9498
+    ],
+    "date": "1970-01-16T11:41:16.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afb9",
+    "latitude": 32.8753,
+    "name": "Sweetie",
+    "longitude": -117.2247,
+    "description": "German Pinscher",
+    "coords": [
+      -117.2247,
+      32.8753
+    ],
+    "date": "1970-01-16T12:01:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afba",
+    "latitude": 32.9976,
+    "name": "Buckley",
+    "longitude": -117.1517,
+    "description": "Russell Terrier",
+    "coords": [
+      -117.1517,
+      32.9976
+    ],
+    "date": "1970-01-16T12:05:45.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afbb",
+    "latitude": 32.8247,
+    "name": "Eightball",
+    "longitude": -117.1908,
+    "description": "Russell Terrier",
+    "coords": [
+      -117.1908,
+      32.8247
+    ],
+    "date": "1970-01-16T11:21:07.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afbc",
+    "latitude": 32.9192,
+    "name": "Cupcake",
+    "longitude": -117.1442,
+    "description": "Great Dane",
+    "coords": [
+      -117.1442,
+      32.9192
+    ],
+    "date": "1970-01-16T11:57:07.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afbd",
+    "latitude": 32.9186,
+    "name": "Tuppence",
+    "longitude": -117.1216,
+    "description": "Weimaraner",
+    "coords": [
+      -117.1216,
+      32.9186
+    ],
+    "date": "1970-01-16T12:31:40.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afbe",
+    "latitude": 32.9009,
+    "name": "Snuffy",
+    "longitude": -117.223,
+    "description": "Siberian Husky",
+    "coords": [
+      -117.223,
+      32.9009
+    ],
+    "date": "1970-01-16T11:25:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afbf",
+    "latitude": 32.9061,
+    "name": "Buttons",
+    "longitude": -117.2267,
+    "description": "Weimaraner",
+    "coords": [
+      -117.2267,
+      32.9061
+    ],
+    "date": "1970-01-16T13:07:40.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afc0",
+    "latitude": 32.9806,
+    "name": "Bucky",
+    "longitude": -117.2105,
+    "description": "Poodle",
+    "coords": [
+      -117.2105,
+      32.9806
+    ],
+    "date": "1970-01-16T12:20:09.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afc1",
+    "latitude": 32.92,
+    "name": "Cutie",
+    "longitude": -117.1476,
+    "description": "Greyhound",
+    "coords": [
+      -117.1476,
+      32.92
+    ],
+    "date": "1970-01-16T12:00:00.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afc2",
+    "latitude": 32.9842,
+    "name": "Gromit",
+    "longitude": -117.1584,
+    "description": "Terrier",
+    "coords": [
+      -117.1584,
+      32.9842
+    ],
+    "date": "1970-01-16T12:37:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afc3",
+    "latitude": 32.9044,
+    "name": "So-Sue-Me",
+    "longitude": -117.2052,
+    "description": "German Shepard",
+    "coords": [
+      -117.2052,
+      32.9044
+    ],
+    "date": "1970-01-16T12:53:16.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afc4",
+    "latitude": 32.844,
+    "name": "Pooky",
+    "longitude": -117.2315,
+    "description": "Boxer",
+    "coords": [
+      -117.2315,
+      32.844
+    ],
+    "date": "1970-01-16T13:09:07.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afc5",
+    "latitude": 32.9138,
+    "name": "Too",
+    "longitude": -117.2127,
+    "description": "Rottweiler",
+    "coords": [
+      -117.2127,
+      32.9138
+    ],
+    "date": "1970-01-16T12:57:36.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afc6",
+    "latitude": 32.8412,
+    "name": "Punkie",
+    "longitude": -117.2125,
+    "description": "Collie",
+    "coords": [
+      -117.2125,
+      32.8412
+    ],
+    "date": "1970-01-16T11:08:09.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afc7",
+    "latitude": 32.9236,
+    "name": "Bugsy",
+    "longitude": -117.119,
+    "description": "Shih Tzu",
+    "coords": [
+      -117.119,
+      32.9236
+    ],
+    "date": "1970-01-16T13:03:21.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afc8",
+    "latitude": 32.836,
+    "name": "Spic",
+    "longitude": -117.1596,
+    "description": "Cocker Spaniel",
+    "coords": [
+      -117.1596,
+      32.836
+    ],
+    "date": "1970-01-16T12:38:52.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afc9",
+    "latitude": 32.9271,
+    "name": "Ace",
+    "longitude": -117.2356,
+    "description": "Cocker Spaniel",
+    "coords": [
+      -117.2356,
+      32.9271
+    ],
+    "date": "1970-01-16T11:28:19.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afca",
+    "latitude": 32.9142,
+    "name": "Caddie",
+    "longitude": -117.1176,
+    "description": "Siberian Husky",
+    "coords": [
+      -117.1176,
+      32.9142
+    ],
+    "date": "1970-01-16T11:58:33.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afcb",
+    "latitude": 32.9115,
+    "name": "Buster",
+    "longitude": -117.1559,
+    "description": "Yorkshire Terrier",
+    "coords": [
+      -117.1559,
+      32.9115
+    ],
+    "date": "1970-01-16T11:18:14.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afcc",
+    "latitude": 32.9832,
+    "name": "Harley",
+    "longitude": -117.1549,
+    "description": "Border Collie",
+    "coords": [
+      -117.1549,
+      32.9832
+    ],
+    "date": "1970-01-16T12:00:00.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afcd",
+    "latitude": 32.8541,
+    "name": "Gizmo",
+    "longitude": -117.2168,
+    "description": "Siberian Husky",
+    "coords": [
+      -117.2168,
+      32.8541
+    ],
+    "date": "1970-01-16T11:15:21.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afce",
+    "latitude": 32.8502,
+    "name": "Snookie",
+    "longitude": -117.1501,
+    "description": "Weimaraner",
+    "coords": [
+      -117.1501,
+      32.8502
+    ],
+    "date": "1970-01-16T12:11:31.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afcf",
+    "latitude": 32.9959,
+    "name": "Jock",
+    "longitude": -117.1808,
+    "description": "Irish Setter",
+    "coords": [
+      -117.1808,
+      32.9959
+    ],
+    "date": "1970-01-16T12:17:16.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afd0",
+    "latitude": 32.8246,
+    "name": "Aakarshan",
+    "longitude": -117.1343,
+    "description": "Terrier",
+    "coords": [
+      -117.1343,
+      32.8246
+    ],
+    "date": "1970-01-16T12:59:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afd1",
+    "latitude": 32.8663,
+    "name": "Shep",
+    "longitude": -117.1479,
+    "description": "Lhasa Apso",
+    "coords": [
+      -117.1479,
+      32.8663
+    ],
+    "date": "1970-01-16T12:36:00.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afd2",
+    "latitude": 32.8532,
+    "name": "Bow",
+    "longitude": -117.1974,
+    "description": "Maltese",
+    "coords": [
+      -117.1974,
+      32.8532
+    ],
+    "date": "1970-01-16T11:45:36.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afd3",
+    "latitude": 32.9873,
+    "name": "Tuck",
+    "longitude": -117.2029,
+    "description": "Shih Tzu",
+    "coords": [
+      -117.2029,
+      32.9873
+    ],
+    "date": "1970-01-16T12:10:04.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afd4",
+    "latitude": 32.8131,
+    "name": "Slobberchops",
+    "longitude": -117.2396,
+    "description": "Russell Terrier",
+    "coords": [
+      -117.2396,
+      32.8131
+    ],
+    "date": "1970-01-16T12:27:21.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afd5",
+    "latitude": 32.9805,
+    "name": "Boomer",
+    "longitude": -117.2337,
+    "description": "Lhasa Apso",
+    "coords": [
+      -117.2337,
+      32.9805
+    ],
+    "date": "1970-01-16T11:25:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afd6",
+    "latitude": 32.8816,
+    "name": "Spud",
+    "longitude": -117.1989,
+    "description": "Bulldog",
+    "coords": [
+      -117.1989,
+      32.8816
+    ],
+    "date": "1970-01-16T12:51:50.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afd7",
+    "latitude": 32.885,
+    "name": "Aussie",
+    "longitude": -117.1481,
+    "description": "Brittany",
+    "coords": [
+      -117.1481,
+      32.885
+    ],
+    "date": "1970-01-16T11:47:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afd8",
+    "latitude": 32.9794,
+    "name": "Taffy",
+    "longitude": -117.1503,
+    "description": "Pointer",
+    "coords": [
+      -117.1503,
+      32.9794
+    ],
+    "date": "1970-01-16T11:41:16.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afd9",
+    "latitude": 32.8411,
+    "name": "Miss",
+    "longitude": -117.131,
+    "description": "German Shepard",
+    "coords": [
+      -117.131,
+      32.8411
+    ],
+    "date": "1970-01-16T11:29:45.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afda",
+    "latitude": 32.8263,
+    "name": "Spice",
+    "longitude": -117.2428,
+    "description": "Border Collie",
+    "coords": [
+      -117.2428,
+      32.8263
+    ],
+    "date": "1970-01-16T12:43:12.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afdb",
+    "latitude": 32.8182,
+    "name": "JJ",
+    "longitude": -117.2149,
+    "description": "Harrier",
+    "coords": [
+      -117.2149,
+      32.8182
+    ],
+    "date": "1970-01-16T12:10:04.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afdc",
+    "latitude": 32.8423,
+    "name": "Tonka",
+    "longitude": -117.1248,
+    "description": "Pug",
+    "coords": [
+      -117.1248,
+      32.8423
+    ],
+    "date": "1970-01-16T12:27:21.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afdd",
+    "latitude": 32.9699,
+    "name": "Down",
+    "longitude": -117.1494,
+    "description": "Pug",
+    "coords": [
+      -117.1494,
+      32.9699
+    ],
+    "date": "1970-01-16T13:04:48.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afde",
+    "latitude": 32.96,
+    "name": "Bitty",
+    "longitude": -117.2312,
+    "description": "German Pinscher",
+    "coords": [
+      -117.2312,
+      32.96
+    ],
+    "date": "1970-01-16T12:56:09.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afdf",
+    "latitude": 32.8498,
+    "name": "Hunky",
+    "longitude": -117.1563,
+    "description": "Boxer",
+    "coords": [
+      -117.1563,
+      32.8498
+    ],
+    "date": "1970-01-16T12:17:16.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afe0",
+    "latitude": 32.8856,
+    "name": "Pal",
+    "longitude": -117.1672,
+    "description": "Brittany",
+    "coords": [
+      -117.1672,
+      32.8856
+    ],
+    "date": "1970-01-16T12:46:04.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afe1",
+    "latitude": 32.9605,
+    "name": "Smoochy",
+    "longitude": -117.1602,
+    "description": "Poodle",
+    "coords": [
+      -117.1602,
+      32.9605
+    ],
+    "date": "1970-01-16T11:49:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afe2",
+    "latitude": 32.9999,
+    "name": "Me-Too",
+    "longitude": -117.1887,
+    "description": "Saint Bernard",
+    "coords": [
+      -117.1887,
+      32.9999
+    ],
+    "date": "1970-01-16T12:10:04.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afe3",
+    "latitude": 32.8064,
+    "name": "Fido",
+    "longitude": -117.2144,
+    "description": "Yorkshire Terrier",
+    "coords": [
+      -117.2144,
+      32.8064
+    ],
+    "date": "1970-01-16T12:04:19.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afe4",
+    "latitude": 32.9304,
+    "name": "Filo",
+    "longitude": -117.1902,
+    "description": "Fox Terrier",
+    "coords": [
+      -117.1902,
+      32.9304
+    ],
+    "date": "1970-01-16T12:59:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afe5",
+    "latitude": 32.9908,
+    "name": "Shortnround",
+    "longitude": -117.2169,
+    "description": "Mastiff",
+    "coords": [
+      -117.2169,
+      32.9908
+    ],
+    "date": "1970-01-16T12:46:04.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afe6",
+    "latitude": 32.8088,
+    "name": "Cuddles",
+    "longitude": -117.1418,
+    "description": "Pointer",
+    "coords": [
+      -117.1418,
+      32.8088
+    ],
+    "date": "1970-01-16T11:47:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afe7",
+    "latitude": 32.9077,
+    "name": "Minty",
+    "longitude": -117.1455,
+    "description": "Terrier",
+    "coords": [
+      -117.1455,
+      32.9077
+    ],
+    "date": "1970-01-16T11:18:14.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afe8",
+    "latitude": 32.9251,
+    "name": "Bones",
+    "longitude": -117.1634,
+    "description": "Harrier",
+    "coords": [
+      -117.1634,
+      32.9251
+    ],
+    "date": "1970-01-16T13:16:19.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afe9",
+    "latitude": 32.9759,
+    "name": "Harley",
+    "longitude": -117.2343,
+    "description": "Cocker Spaniel",
+    "coords": [
+      -117.2343,
+      32.9759
+    ],
+    "date": "1970-01-16T13:14:52.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afea",
+    "latitude": 32.898,
+    "name": "Davidson",
+    "longitude": -117.1751,
+    "description": "Sheepdog",
+    "coords": [
+      -117.1751,
+      32.898
+    ],
+    "date": "1970-01-16T11:34:04.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afeb",
+    "latitude": 32.9607,
+    "name": "Sissy",
+    "longitude": -117.1489,
+    "description": "Pomeranian",
+    "coords": [
+      -117.1489,
+      32.9607
+    ],
+    "date": "1970-01-16T12:14:24.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afec",
+    "latitude": 32.8666,
+    "name": "Doodle",
+    "longitude": -117.2282,
+    "description": "Pomeranian",
+    "coords": [
+      -117.2282,
+      32.8666
+    ],
+    "date": "1970-01-16T13:07:40.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afed",
+    "latitude": 32.898,
+    "name": "Magnificat",
+    "longitude": -117.2235,
+    "description": "Shih Tzu",
+    "coords": [
+      -117.2235,
+      32.898
+    ],
+    "date": "1970-01-16T11:11:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afee",
+    "latitude": 32.918,
+    "name": "Jaffa",
+    "longitude": -117.1865,
+    "description": "German Pinscher",
+    "coords": [
+      -117.1865,
+      32.918
+    ],
+    "date": "1970-01-16T11:19:40.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afef",
+    "latitude": 32.9894,
+    "name": "Agro",
+    "longitude": -117.237,
+    "description": "Border Collie",
+    "coords": [
+      -117.237,
+      32.9894
+    ],
+    "date": "1970-01-16T11:42:43.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8aff0",
+    "latitude": 32.9893,
+    "name": "Bingo",
+    "longitude": -117.1931,
+    "description": "Springer Spaniel",
+    "coords": [
+      -117.1931,
+      32.9893
+    ],
+    "date": "1970-01-16T12:33:07.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8aff1",
+    "latitude": 32.9048,
+    "name": "Footloose",
+    "longitude": -117.1591,
+    "description": "Shiba Inu",
+    "coords": [
+      -117.1591,
+      32.9048
+    ],
+    "date": "1970-01-16T13:13:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8aff2",
+    "latitude": 32.9083,
+    "name": "Kosta",
+    "longitude": -117.1551,
+    "description": "Pekingese",
+    "coords": [
+      -117.1551,
+      32.9083
+    ],
+    "date": "1970-01-16T11:51:21.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8aff3",
+    "latitude": 32.9727,
+    "name": "Hooch",
+    "longitude": -117.1248,
+    "description": "Brittany",
+    "coords": [
+      -117.1248,
+      32.9727
+    ],
+    "date": "1970-01-16T12:44:38.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8aff4",
+    "latitude": 32.8212,
+    "name": "Sunny",
+    "longitude": -117.2024,
+    "description": "Springer Spaniel",
+    "coords": [
+      -117.2024,
+      32.8212
+    ],
+    "date": "1970-01-16T13:09:07.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8aff5",
+    "latitude": 32.8242,
+    "name": "Wuffy",
+    "longitude": -117.1953,
+    "description": "Shiba Inu",
+    "coords": [
+      -117.1953,
+      32.8242
+    ],
+    "date": "1970-01-16T11:44:09.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8aff6",
+    "latitude": 32.8168,
+    "name": "Me",
+    "longitude": -117.2466,
+    "description": "Shiba Inu",
+    "coords": [
+      -117.2466,
+      32.8168
+    ],
+    "date": "1970-01-16T13:04:48.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8aff7",
+    "latitude": 32.9529,
+    "name": "Tassie",
+    "longitude": -117.2343,
+    "description": "Great Dane",
+    "coords": [
+      -117.2343,
+      32.9529
+    ],
+    "date": "1970-01-16T11:26:52.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8aff8",
+    "latitude": 32.9207,
+    "name": "Dash",
+    "longitude": -117.171,
+    "description": "Irish Setter",
+    "coords": [
+      -117.171,
+      32.9207
+    ],
+    "date": "1970-01-16T13:09:07.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8aff9",
+    "latitude": 32.8,
+    "name": "Taz",
+    "longitude": -117.2405,
+    "description": "Greyhound",
+    "coords": [
+      -117.2405,
+      32.8
+    ],
+    "date": "1970-01-16T11:58:33.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8affa",
+    "latitude": 32.8119,
+    "name": "Fetch",
+    "longitude": -117.242,
+    "description": "Shih Tzu",
+    "coords": [
+      -117.242,
+      32.8119
+    ],
+    "date": "1970-01-16T11:19:40.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8affb",
+    "latitude": 32.9699,
+    "name": "Teddy",
+    "longitude": -117.2142,
+    "description": "Harrier",
+    "coords": [
+      -117.2142,
+      32.9699
+    ],
+    "date": "1970-01-16T13:13:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8affc",
+    "latitude": 32.8721,
+    "name": "Chico",
+    "longitude": -117.119,
+    "description": "Border Collie",
+    "coords": [
+      -117.119,
+      32.8721
+    ],
+    "date": "1970-01-16T12:30:14.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8affd",
+    "latitude": 32.8869,
+    "name": "Bow",
+    "longitude": -117.2301,
+    "description": "Mastiff",
+    "coords": [
+      -117.2301,
+      32.8869
+    ],
+    "date": "1970-01-16T12:44:38.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8affe",
+    "latitude": 32.8044,
+    "name": "Back",
+    "longitude": -117.2197,
+    "description": "Bulldog",
+    "coords": [
+      -117.2197,
+      32.8044
+    ],
+    "date": "1970-01-16T11:13:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8afff",
+    "latitude": 32.8791,
+    "name": "When",
+    "longitude": -117.2031,
+    "description": "Siberian Husky",
+    "coords": [
+      -117.2031,
+      32.8791
+    ],
+    "date": "1970-01-16T12:23:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b000",
+    "latitude": 32.9142,
+    "name": "Him",
+    "longitude": -117.1543,
+    "description": "Bloodhound",
+    "coords": [
+      -117.1543,
+      32.9142
+    ],
+    "date": "1970-01-16T11:08:09.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b001",
+    "latitude": 32.9995,
+    "name": "Tie",
+    "longitude": -117.1688,
+    "description": "Maltese",
+    "coords": [
+      -117.1688,
+      32.9995
+    ],
+    "date": "1970-01-16T11:41:16.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b002",
+    "latitude": 32.86,
+    "name": "Cyber",
+    "longitude": -117.1372,
+    "description": "Harrier",
+    "coords": [
+      -117.1372,
+      32.86
+    ],
+    "date": "1970-01-16T11:29:45.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b003",
+    "latitude": 32.9971,
+    "name": "Woofa",
+    "longitude": -117.1477,
+    "description": "Yorkshire Terrier",
+    "coords": [
+      -117.1477,
+      32.9971
+    ],
+    "date": "1970-01-16T13:01:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b004",
+    "latitude": 32.8259,
+    "name": "Bomber",
+    "longitude": -117.1481,
+    "description": "Greyhound",
+    "coords": [
+      -117.1481,
+      32.8259
+    ],
+    "date": "1970-01-16T13:06:14.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b005",
+    "latitude": 32.8441,
+    "name": "Jimbo",
+    "longitude": -117.1637,
+    "description": "Greyhound",
+    "coords": [
+      -117.1637,
+      32.8441
+    ],
+    "date": "1970-01-16T12:14:24.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b006",
+    "latitude": 32.8058,
+    "name": "Schatzi",
+    "longitude": -117.2271,
+    "description": "Sheepdog",
+    "coords": [
+      -117.2271,
+      32.8058
+    ],
+    "date": "1970-01-16T12:57:36.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b007",
+    "latitude": 32.8018,
+    "name": "Scamp",
+    "longitude": -117.1677,
+    "description": "Irish Setter",
+    "coords": [
+      -117.1677,
+      32.8018
+    ],
+    "date": "1970-01-16T11:57:07.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b008",
+    "latitude": 32.8636,
+    "name": "Spick",
+    "longitude": -117.2262,
+    "description": "Bloodhound",
+    "coords": [
+      -117.2262,
+      32.8636
+    ],
+    "date": "1970-01-16T13:03:21.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b009",
+    "latitude": 32.8719,
+    "name": "Sniff",
+    "longitude": -117.2087,
+    "description": "Yorkshire Terrier",
+    "coords": [
+      -117.2087,
+      32.8719
+    ],
+    "date": "1970-01-16T12:41:45.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b00a",
+    "latitude": 32.9808,
+    "name": "KC",
+    "longitude": -117.1543,
+    "description": "Sheepdog",
+    "coords": [
+      -117.1543,
+      32.9808
+    ],
+    "date": "1970-01-16T11:44:09.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b00b",
+    "latitude": 32.8159,
+    "name": "Ball",
+    "longitude": -117.1191,
+    "description": "Boxer",
+    "coords": [
+      -117.1191,
+      32.8159
+    ],
+    "date": "1970-01-16T12:37:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b00c",
+    "latitude": 32.8212,
+    "name": "Foot",
+    "longitude": -117.124,
+    "description": "Weimaraner",
+    "coords": [
+      -117.124,
+      32.8212
+    ],
+    "date": "1970-01-16T13:13:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b00d",
+    "latitude": 32.874,
+    "name": "Cobber",
+    "longitude": -117.2266,
+    "description": "Springer Spaniel",
+    "coords": [
+      -117.2266,
+      32.874
+    ],
+    "date": "1970-01-16T11:45:36.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b00e",
+    "latitude": 32.9527,
+    "name": "Shiner",
+    "longitude": -117.2005,
+    "description": "Maltese",
+    "coords": [
+      -117.2005,
+      32.9527
+    ],
+    "date": "1970-01-16T11:38:24.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b00f",
+    "latitude": 32.8159,
+    "name": "Rolly",
+    "longitude": -117.2001,
+    "description": "Pointer",
+    "coords": [
+      -117.2001,
+      32.8159
+    ],
+    "date": "1970-01-16T12:10:04.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b010",
+    "latitude": 32.9019,
+    "name": "Kit",
+    "longitude": -117.1774,
+    "description": "Maltese",
+    "coords": [
+      -117.1774,
+      32.9019
+    ],
+    "date": "1970-01-16T12:34:33.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b011",
+    "latitude": 32.9621,
+    "name": "Migraine",
+    "longitude": -117.199,
+    "description": "Siberian Husky",
+    "coords": [
+      -117.199,
+      32.9621
+    ],
+    "date": "1970-01-16T12:24:28.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b012",
+    "latitude": 32.9413,
+    "name": "Bubba",
+    "longitude": -117.1922,
+    "description": "Pomeranian",
+    "coords": [
+      -117.1922,
+      32.9413
+    ],
+    "date": "1970-01-16T11:22:33.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b013",
+    "latitude": 32.8801,
+    "name": "Razor",
+    "longitude": -117.2107,
+    "description": "German Pinscher",
+    "coords": [
+      -117.2107,
+      32.8801
+    ],
+    "date": "1970-01-16T11:58:33.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b014",
+    "latitude": 32.8132,
+    "name": "Purrty",
+    "longitude": -117.118,
+    "description": "Springer Spaniel",
+    "coords": [
+      -117.118,
+      32.8132
+    ],
+    "date": "1970-01-16T11:12:28.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b015",
+    "latitude": 32.8641,
+    "name": "Sniper",
+    "longitude": -117.2428,
+    "description": "Fox Terrier",
+    "coords": [
+      -117.2428,
+      32.8641
+    ],
+    "date": "1970-01-16T12:20:09.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b016",
+    "latitude": 32.8111,
+    "name": "TJ",
+    "longitude": -117.2472,
+    "description": "Pekingese",
+    "coords": [
+      -117.2472,
+      32.8111
+    ],
+    "date": "1970-01-16T11:13:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b017",
+    "latitude": 32.848,
+    "name": "Abbott",
+    "longitude": -117.1927,
+    "description": "German Shepard",
+    "coords": [
+      -117.1927,
+      32.848
+    ],
+    "date": "1970-01-16T12:40:19.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b018",
+    "latitude": 32.9637,
+    "name": "Whatsit",
+    "longitude": -117.1451,
+    "description": "Russell Terrier",
+    "coords": [
+      -117.1451,
+      32.9637
+    ],
+    "date": "1970-01-16T11:49:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b019",
+    "latitude": 32.9498,
+    "name": "Legend",
+    "longitude": -117.2481,
+    "description": "Pug",
+    "coords": [
+      -117.2481,
+      32.9498
+    ],
+    "date": "1970-01-16T12:21:36.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b01a",
+    "latitude": 32.8707,
+    "name": "Tic",
+    "longitude": -117.2216,
+    "description": "Sheepdog",
+    "coords": [
+      -117.2216,
+      32.8707
+    ],
+    "date": "1970-01-16T11:24:00.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b01b",
+    "latitude": 32.8069,
+    "name": "Boofhead",
+    "longitude": -117.1978,
+    "description": "Sheepdog",
+    "coords": [
+      -117.1978,
+      32.8069
+    ],
+    "date": "1970-01-16T11:11:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b01c",
+    "latitude": 32.873,
+    "name": "Snugglepuss",
+    "longitude": -117.2432,
+    "description": "Terrier",
+    "coords": [
+      -117.2432,
+      32.873
+    ],
+    "date": "1970-01-16T13:06:14.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b01d",
+    "latitude": 32.9132,
+    "name": "Bubbles",
+    "longitude": -117.1282,
+    "description": "Pug",
+    "coords": [
+      -117.1282,
+      32.9132
+    ],
+    "date": "1970-01-16T12:48:57.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b01e",
+    "latitude": 32.8684,
+    "name": "Vang",
+    "longitude": -117.211,
+    "description": "Shiba Inu",
+    "coords": [
+      -117.211,
+      32.8684
+    ],
+    "date": "1970-01-16T11:09:36.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b01f",
+    "latitude": 32.911,
+    "name": "Chewpr",
+    "longitude": -117.222,
+    "description": "Cocker Spaniel",
+    "coords": [
+      -117.222,
+      32.911
+    ],
+    "date": "1970-01-16T12:25:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b020",
+    "latitude": 32.9782,
+    "name": "Irish",
+    "longitude": -117.1266,
+    "description": "Springer Spaniel",
+    "coords": [
+      -117.1266,
+      32.9782
+    ],
+    "date": "1970-01-16T12:00:00.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b021",
+    "latitude": 32.9788,
+    "name": "Lovey",
+    "longitude": -117.1647,
+    "description": "Russell Terrier",
+    "coords": [
+      -117.1647,
+      32.9788
+    ],
+    "date": "1970-01-16T11:24:00.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b022",
+    "latitude": 32.9735,
+    "name": "Tuffy",
+    "longitude": -117.1619,
+    "description": "Fox Terrier",
+    "coords": [
+      -117.1619,
+      32.9735
+    ],
+    "date": "1970-01-16T12:24:28.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b023",
+    "latitude": 32.8909,
+    "name": "Bo",
+    "longitude": -117.2181,
+    "description": "Great Dane",
+    "coords": [
+      -117.2181,
+      32.8909
+    ],
+    "date": "1970-01-16T11:49:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b024",
+    "latitude": 32.9704,
+    "name": "Nifty",
+    "longitude": -117.1464,
+    "description": "Bloodhound",
+    "coords": [
+      -117.1464,
+      32.9704
+    ],
+    "date": "1970-01-16T11:19:40.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b025",
+    "latitude": 32.8894,
+    "name": "Growlzer",
+    "longitude": -117.118,
+    "description": "German Shepard",
+    "coords": [
+      -117.118,
+      32.8894
+    ],
+    "date": "1970-01-16T12:00:00.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b026",
+    "latitude": 32.8723,
+    "name": "Sport",
+    "longitude": -117.1551,
+    "description": "Brittany",
+    "coords": [
+      -117.1551,
+      32.8723
+    ],
+    "date": "1970-01-16T12:20:09.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b027",
+    "latitude": 32.9186,
+    "name": "Matty",
+    "longitude": -117.1259,
+    "description": "Weimaraner",
+    "coords": [
+      -117.1259,
+      32.9186
+    ],
+    "date": "1970-01-16T12:54:43.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b028",
+    "latitude": 32.9089,
+    "name": "Spunky",
+    "longitude": -117.2349,
+    "description": "Boxer",
+    "coords": [
+      -117.2349,
+      32.9089
+    ],
+    "date": "1970-01-16T11:51:21.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b029",
+    "latitude": 32.9535,
+    "name": "Tippy",
+    "longitude": -117.2326,
+    "description": "Mastiff",
+    "coords": [
+      -117.2326,
+      32.9535
+    ],
+    "date": "1970-01-16T12:37:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b02a",
+    "latitude": 32.8465,
+    "name": "Tick",
+    "longitude": -117.2337,
+    "description": "Lhasa Apso",
+    "coords": [
+      -117.2337,
+      32.8465
+    ],
+    "date": "1970-01-16T12:12:57.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b02b",
+    "latitude": 32.8523,
+    "name": "Snoop",
+    "longitude": -117.1312,
+    "description": "Shiba Inu",
+    "coords": [
+      -117.1312,
+      32.8523
+    ],
+    "date": "1970-01-16T12:23:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b02c",
+    "latitude": 32.9742,
+    "name": "Wags",
+    "longitude": -117.1385,
+    "description": "Saint Bernard",
+    "coords": [
+      -117.1385,
+      32.9742
+    ],
+    "date": "1970-01-16T12:05:45.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b02d",
+    "latitude": 32.8321,
+    "name": "Sickumm",
+    "longitude": -117.1431,
+    "description": "Pekingese",
+    "coords": [
+      -117.1431,
+      32.8321
+    ],
+    "date": "1970-01-16T12:15:50.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b02e",
+    "latitude": 32.9482,
+    "name": "Tosca",
+    "longitude": -117.1598,
+    "description": "Poodle",
+    "coords": [
+      -117.1598,
+      32.9482
+    ],
+    "date": "1970-01-16T13:14:52.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b02f",
+    "latitude": 32.9698,
+    "name": "AJ",
+    "longitude": -117.1384,
+    "description": "Bloodhound",
+    "coords": [
+      -117.1384,
+      32.9698
+    ],
+    "date": "1970-01-16T12:05:45.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b030",
+    "latitude": 32.8179,
+    "name": "Moppet",
+    "longitude": -117.2175,
+    "description": "Border Collie",
+    "coords": [
+      -117.2175,
+      32.8179
+    ],
+    "date": "1970-01-16T12:38:52.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b031",
+    "latitude": 32.8331,
+    "name": "Jak",
+    "longitude": -117.1422,
+    "description": "Pointer",
+    "coords": [
+      -117.1422,
+      32.8331
+    ],
+    "date": "1970-01-16T13:14:52.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b032",
+    "latitude": 32.8873,
+    "name": "Woody",
+    "longitude": -117.1906,
+    "description": "Shih Tzu",
+    "coords": [
+      -117.1906,
+      32.8873
+    ],
+    "date": "1970-01-16T11:09:36.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b033",
+    "latitude": 32.8289,
+    "name": "Libearty",
+    "longitude": -117.1947,
+    "description": "Rottweiler",
+    "coords": [
+      -117.1947,
+      32.8289
+    ],
+    "date": "1970-01-16T11:41:16.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b034",
+    "latitude": 32.9103,
+    "name": "Matey",
+    "longitude": -117.1717,
+    "description": "Fox Terrier",
+    "coords": [
+      -117.1717,
+      32.9103
+    ],
+    "date": "1970-01-16T12:38:52.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b035",
+    "latitude": 32.8743,
+    "name": "Chuck",
+    "longitude": -117.1389,
+    "description": "Boxer",
+    "coords": [
+      -117.1389,
+      32.8743
+    ],
+    "date": "1970-01-16T12:51:50.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b036",
+    "latitude": 32.8978,
+    "name": "Sugar",
+    "longitude": -117.1905,
+    "description": "Collie",
+    "coords": [
+      -117.1905,
+      32.8978
+    ],
+    "date": "1970-01-16T12:33:07.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b037",
+    "latitude": 32.9804,
+    "name": "Bozo",
+    "longitude": -117.2112,
+    "description": "Pekingese",
+    "coords": [
+      -117.2112,
+      32.9804
+    ],
+    "date": "1970-01-16T12:15:50.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b038",
+    "latitude": 32.9949,
+    "name": "Thunderpants",
+    "longitude": -117.1333,
+    "description": "Irish Setter",
+    "coords": [
+      -117.1333,
+      32.9949
+    ],
+    "date": "1970-01-16T12:23:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b039",
+    "latitude": 32.9116,
+    "name": "Hurly",
+    "longitude": -117.1418,
+    "description": "Collie",
+    "coords": [
+      -117.1418,
+      32.9116
+    ],
+    "date": "1970-01-16T12:18:43.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b03a",
+    "latitude": 32.9535,
+    "name": "Geordie",
+    "longitude": -117.2311,
+    "description": "Saint Bernard",
+    "coords": [
+      -117.2311,
+      32.9535
+    ],
+    "date": "1970-01-16T12:59:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b03b",
+    "latitude": 32.8319,
+    "name": "Le",
+    "longitude": -117.1694,
+    "description": "Pomeranian",
+    "coords": [
+      -117.1694,
+      32.8319
+    ],
+    "date": "1970-01-16T12:17:16.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b03c",
+    "latitude": 32.8134,
+    "name": "Toad",
+    "longitude": -117.2374,
+    "description": "Pomeranian",
+    "coords": [
+      -117.2374,
+      32.8134
+    ],
+    "date": "1970-01-16T11:18:14.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b03d",
+    "latitude": 32.8391,
+    "name": "Chain",
+    "longitude": -117.2255,
+    "description": "Terrier",
+    "coords": [
+      -117.2255,
+      32.8391
+    ],
+    "date": "1970-01-16T11:34:04.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b03e",
+    "latitude": 32.8451,
+    "name": "Crankie",
+    "longitude": -117.1429,
+    "description": "German Pinscher",
+    "coords": [
+      -117.1429,
+      32.8451
+    ],
+    "date": "1970-01-16T12:59:02.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b03f",
+    "latitude": 32.8457,
+    "name": "Fella",
+    "longitude": -117.1493,
+    "description": "Poodle",
+    "coords": [
+      -117.1493,
+      32.8457
+    ],
+    "date": "1970-01-16T11:28:19.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b040",
+    "latitude": 32.9396,
+    "name": "Buzz",
+    "longitude": -117.2167,
+    "description": "Shiba Inu",
+    "coords": [
+      -117.2167,
+      32.9396
+    ],
+    "date": "1970-01-16T11:36:57.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b041",
+    "latitude": 32.8658,
+    "name": "Roscoe",
+    "longitude": -117.2448,
+    "description": "Great Dane",
+    "coords": [
+      -117.2448,
+      32.8658
+    ],
+    "date": "1970-01-16T12:00:00.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b042",
+    "latitude": 32.9138,
+    "name": "Howie",
+    "longitude": -117.1711,
+    "description": "Bulldog",
+    "coords": [
+      -117.1711,
+      32.9138
+    ],
+    "date": "1970-01-16T11:22:33.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b043",
+    "latitude": 32.9747,
+    "name": "Kosta",
+    "longitude": -117.2443,
+    "description": "Mastiff",
+    "coords": [
+      -117.2443,
+      32.9747
+    ],
+    "date": "1970-01-16T11:25:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b044",
+    "latitude": 32.8379,
+    "name": "By",
+    "longitude": -117.1536,
+    "description": "Saint Bernard",
+    "coords": [
+      -117.1536,
+      32.8379
+    ],
+    "date": "1970-01-16T11:21:07.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b045",
+    "latitude": 32.8715,
+    "name": "CJ",
+    "longitude": -117.2206,
+    "description": "Collie",
+    "coords": [
+      -117.2206,
+      32.8715
+    ],
+    "date": "1970-01-16T11:49:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b046",
+    "latitude": 32.8094,
+    "name": "Ken",
+    "longitude": -117.1663,
+    "description": "Lhasa Apso",
+    "coords": [
+      -117.1663,
+      32.8094
+    ],
+    "date": "1970-01-16T12:24:28.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b047",
+    "latitude": 32.9611,
+    "name": "Butch",
+    "longitude": -117.2253,
+    "description": "Fox Terrier",
+    "coords": [
+      -117.2253,
+      32.9611
+    ],
+    "date": "1970-01-16T11:55:40.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b048",
+    "latitude": 32.9072,
+    "name": "Duffy",
+    "longitude": -117.2439,
+    "description": "Rottweiler",
+    "coords": [
+      -117.2439,
+      32.9072
+    ],
+    "date": "1970-01-16T11:34:04.800Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b049",
+    "latitude": 32.8628,
+    "name": "Topaz",
+    "longitude": -117.2314,
+    "description": "Russell Terrier",
+    "coords": [
+      -117.2314,
+      32.8628
+    ],
+    "date": "1970-01-16T12:20:09.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b04a",
+    "latitude": 32.8404,
+    "name": "Chopper",
+    "longitude": -117.181,
+    "description": "Bulldog",
+    "coords": [
+      -117.181,
+      32.8404
+    ],
+    "date": "1970-01-16T13:03:21.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b04b",
+    "latitude": 32.8684,
+    "name": "Marbles",
+    "longitude": -117.1618,
+    "description": "Yorkshire Terrier",
+    "coords": [
+      -117.1618,
+      32.8684
+    ],
+    "date": "1970-01-16T11:57:07.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b04c",
+    "latitude": 32.9692,
+    "name": "Bubby",
+    "longitude": -117.1394,
+    "description": "Rottweiler",
+    "coords": [
+      -117.1394,
+      32.9692
+    ],
+    "date": "1970-01-16T11:25:26.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b04d",
+    "latitude": 32.9007,
+    "name": "Dice",
+    "longitude": -117.1275,
+    "description": "Mastiff",
+    "coords": [
+      -117.1275,
+      32.9007
+    ],
+    "date": "1970-01-16T12:44:38.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b04e",
+    "latitude": 32.8862,
+    "name": "Death",
+    "longitude": -117.2212,
+    "description": "Lhasa Apso",
+    "coords": [
+      -117.2212,
+      32.8862
+    ],
+    "date": "1970-01-16T11:16:48.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b04f",
+    "latitude": 32.9009,
+    "name": "Deefor",
+    "longitude": -117.165,
+    "description": "Maltese",
+    "coords": [
+      -117.165,
+      32.9009
+    ],
+    "date": "1970-01-16T12:47:31.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b050",
+    "latitude": 32.8694,
+    "name": "Pandemonium",
+    "longitude": -117.1279,
+    "description": "Bulldog",
+    "coords": [
+      -117.1279,
+      32.8694
+    ],
+    "date": "1970-01-16T12:00:00.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b051",
+    "latitude": 32.883,
+    "name": "DJ",
+    "longitude": -117.2361,
+    "description": "Pekingese",
+    "coords": [
+      -117.2361,
+      32.883
+    ],
+    "date": "1970-01-16T13:12:00.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b052",
+    "latitude": 32.8742,
+    "name": "Jerky",
+    "longitude": -117.1198,
+    "description": "Great Dane",
+    "coords": [
+      -117.1198,
+      32.8742
+    ],
+    "date": "1970-01-16T11:13:55.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b053",
+    "latitude": 32.8867,
+    "name": "Lucky",
+    "longitude": -117.1728,
+    "description": "Poodle",
+    "coords": [
+      -117.1728,
+      32.8867
+    ],
+    "date": "1970-01-16T12:57:36.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b054",
+    "latitude": 32.8078,
+    "name": "Worf",
+    "longitude": -117.2219,
+    "description": "Weimaraner",
+    "coords": [
+      -117.2219,
+      32.8078
+    ],
+    "date": "1970-01-16T12:57:36.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b055",
+    "latitude": 32.8994,
+    "name": "Xerox",
+    "longitude": -117.1481,
+    "description": "Saint Bernard",
+    "coords": [
+      -117.1481,
+      32.8994
+    ],
+    "date": "1970-01-16T12:11:31.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b056",
+    "latitude": 32.9641,
+    "name": "Snags",
+    "longitude": -117.2281,
+    "description": "Shih Tzu",
+    "coords": [
+      -117.2281,
+      32.9641
+    ],
+    "date": "1970-01-16T11:29:45.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b057",
+    "latitude": 32.8331,
+    "name": "Bazza",
+    "longitude": -117.1226,
+    "description": "Collie",
+    "coords": [
+      -117.1226,
+      32.8331
+    ],
+    "date": "1970-01-16T13:10:33.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b058",
+    "latitude": 32.9858,
+    "name": "Mo",
+    "longitude": -117.119,
+    "description": "Cocker Spaniel",
+    "coords": [
+      -117.119,
+      32.9858
+    ],
+    "date": "1970-01-16T12:57:36.000Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b059",
+    "latitude": 32.8025,
+    "name": "Smootchie",
+    "longitude": -117.2465,
+    "description": "Saint Bernard",
+    "coords": [
+      -117.2465,
+      32.8025
+    ],
+    "date": "1970-01-16T12:40:19.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b05a",
+    "latitude": 32.8458,
+    "name": "Slobber",
+    "longitude": -117.1846,
+    "description": "Rottweiler",
+    "coords": [
+      -117.1846,
+      32.8458
+    ],
+    "date": "1970-01-16T13:16:19.200Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b05b",
+    "latitude": 32.8379,
+    "name": "BJ",
+    "longitude": -117.1726,
+    "description": "Pointer",
+    "coords": [
+      -117.1726,
+      32.8379
+    ],
+    "date": "1970-01-16T13:06:14.400Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b05c",
+    "latitude": 32.9677,
+    "name": "Rough",
+    "longitude": -117.1787,
+    "description": "Greyhound",
+    "coords": [
+      -117.1787,
+      32.9677
+    ],
+    "date": "1970-01-16T12:41:45.600Z"
+  },
+  {
+    "_id": "50199bb8f07a3c51efc8b05d",
+    "latitude": 32.858,
+    "name": "Tuff",
+    "longitude": -117.1465,
+    "description": "Yorkshire Terrier",
+    "coords": [
+      -117.1465,
+      32.858
+    ],
+    "date": "1970-01-16T11:28:19.200Z"
+  },
+  {
+    "name": "near",
+    "description": "-117.1507",
+    "longitude": 5,
+    "latitude": 32.843,
+    "_id": "50ee2c5e4264f0e63b000001",
+    "__v": 0,
+    "coords": [
+      
+    ],
+    "date": "2013-01-10T02:50:06.793Z"
+  },
+  {
+    "name": "near",
+    "description": ":lon",
+    "longitude": 5,
+    "latitude": 10,
+    "_id": "50ee2d1f4264f0e63b000004",
+    "__v": 0,
+    "coords": [
+      
+    ],
+    "date": "2013-01-10T02:53:19.791Z"
+  }
+]

@@ -1,0 +1,980 @@
+﻿[
+  {
+    "ulica": "Rynek 8",
+    "miasto": " Mak\u00f3w Podhala\u0144ski",
+    "x": "19.677831",
+    "y": "49.730096"
+  },
+  {
+    "ulica": "Zawadka 90",
+    "miasto": " Wadowice",
+    "x": "19.4939579",
+    "y": "49.8827856"
+  },
+  {
+    "ulica": "Biskupice 1",
+    "miasto": " Wieliczka",
+    "x": "20.1195848",
+    "y": "49.9645708"
+  },
+  {
+    "ulica": "Kru\u017clowa 205",
+    "miasto": " Kru\u017clowa",
+    "x": "20.8700565",
+    "y": "49.6455984"
+  },
+  {
+    "ulica": "RABA NI\u017bNA 162",
+    "miasto": " MSZANA DOLNA",
+    "x": "20.0277758",
+    "y": "49.6389965"
+  },
+  {
+    "ulica": "Rynek 21",
+    "miasto": " Mszana Dolona",
+    "x": "20.0831932",
+    "y": "49.6776488"
+  },
+  {
+    "ulica": "Zago\u015bciniec 1",
+    "miasto": " Krak\u00f3w",
+    "x": "20.1240668",
+    "y": "50.0975127"
+  },
+  {
+    "ulica": "Mirtowa 2",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9457707",
+    "y": "49.9842663"
+  },
+  {
+    "ulica": "Monte Cassino 31",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9222579",
+    "y": "50.0463414"
+  },
+  {
+    "ulica": "Chab\u00f3wka 274a",
+    "miasto": " Chab\u00f3wka",
+    "x": "19.9518156",
+    "y": "49.6238197"
+  },
+  {
+    "ulica": "ul. Szopkarzy 8",
+    "miasto": " Krak\u00f3w",
+    "x": "19.931349",
+    "y": "50.0936362"
+  },
+  {
+    "ulica": "Podobin 257",
+    "miasto": " Nied\u017awied\u017a",
+    "x": "20.0747262",
+    "y": "49.6195056"
+  },
+  {
+    "ulica": "Bytomsko 77",
+    "miasto": " \u017begocina",
+    "x": "20.450723",
+    "y": "49.8190298"
+  },
+  {
+    "ulica": "ul. J. Matejki 11",
+    "miasto": " Mszana Dolna",
+    "x": "20.0837978",
+    "y": "49.6786455"
+  },
+  {
+    "ulica": "Sienkiewicza 4",
+    "miasto": " Brzeszcze",
+    "x": "19.152679",
+    "y": "49.984576"
+  },
+  {
+    "ulica": "\u0141abowa 22",
+    "miasto": " \u0141abowa",
+    "x": "20.8602404",
+    "y": "49.4779694"
+  },
+  {
+    "ulica": "Danka 1",
+    "miasto": " Krak\u00f3w",
+    "x": "19.926923",
+    "y": "50.0934584"
+  },
+  {
+    "ulica": "Ropa",
+    "miasto": " Ropa",
+    "x": "21.0442846",
+    "y": "49.590972"
+  },
+  {
+    "ulica": "T\u0119goborze",
+    "miasto": " T\u0119goborze",
+    "x": "20.6427312",
+    "y": "49.7117018"
+  },
+  {
+    "ulica": "Rzeszotary 320",
+    "miasto": " \u015awi\u0105tniki G\u00f3rne",
+    "x": "19.9737495",
+    "y": "49.9383889"
+  },
+  {
+    "ulica": "Harkabuz 47",
+    "miasto": " Raba Wy\u017cna",
+    "x": "19.8360601",
+    "y": "49.5380193"
+  },
+  {
+    "ulica": "Stani\u0105tki 5",
+    "miasto": " Niepo\u0142omice",
+    "x": "20.1944753",
+    "y": "50.0113892"
+  },
+  {
+    "ulica": "ul. Ko\u015bcielna 2",
+    "miasto": " Nowy Wi\u015bnicz",
+    "x": "19.759925",
+    "y": "50.385955"
+  },
+  {
+    "ulica": "D\u0141U\u017bEC 7",
+    "miasto": " WOLBROM",
+    "x": "19.711658",
+    "y": "50.4034227"
+  },
+  {
+    "ulica": "Zakliczyn 250",
+    "miasto": " Zakliczyn",
+    "x": "20.0219967",
+    "y": "49.8821222"
+  },
+  {
+    "ulica": "Przykopy 10",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9463904",
+    "y": "50.0159183"
+  },
+  {
+    "ulica": "D\u0141U\u017bEC 7",
+    "miasto": " WOLBROM",
+    "x": "19.711658",
+    "y": "50.4034227"
+  },
+  {
+    "ulica": "ul.\u017beromskiego 16",
+    "miasto": " Nowy S\u0105cz",
+    "x": "20.6993047",
+    "y": "49.615871"
+  },
+  {
+    "ulica": "Rabatkowa 2",
+    "miasto": " O\u015bwi\u0119cim poczta Rajsko",
+    "x": "19.1923366",
+    "y": "50.012549"
+  },
+  {
+    "ulica": "KRZYKAWA 54",
+    "miasto": " BOLES\u0141AW",
+    "x": "19.4262153",
+    "y": "50.3095668"
+  },
+  {
+    "ulica": "Komandos\u00f3w 13",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9309257",
+    "y": "50.0443016"
+  },
+  {
+    "ulica": "KRZCZON\u00d3W 82",
+    "miasto": " KRZCZON\u00d3W",
+    "x": "22.5543817",
+    "y": "51.0057123"
+  },
+  {
+    "ulica": "UL. SZKOLNA 7",
+    "miasto": " KRZESZOWICE",
+    "x": "19.6357293",
+    "y": "50.1370634"
+  },
+  {
+    "ulica": "ul.St\u0119pnia 1",
+    "miasto": " Krak\u00f3w",
+    "x": "20.0480828",
+    "y": "50.015821"
+  },
+  {
+    "ulica": "Witosa 140",
+    "miasto": " \u0141\u0119g Tarnowski",
+    "x": "20.9270561",
+    "y": "50.0885901"
+  },
+  {
+    "ulica": "Skalska 15",
+    "miasto": " Olkusz",
+    "x": "19.570618",
+    "y": "50.279617"
+  },
+  {
+    "ulica": "G\u00f3rnicza 3",
+    "miasto": " Libi\u0105\u017c",
+    "x": "19.3307695",
+    "y": "50.1001132"
+  },
+  {
+    "ulica": "UL. FABRYCZNA 23 A",
+    "miasto": " CHRZAN\u00d3W",
+    "x": "19.3891597",
+    "y": "50.1266672"
+  },
+  {
+    "ulica": "Bodzan\u00f3w 128",
+    "miasto": " Wieliczka",
+    "x": "20.1459245",
+    "y": "49.9854859"
+  },
+  {
+    "ulica": "UL. SIENKIEWICZA 9",
+    "miasto": " WADOWICE",
+    "x": "19.4965238",
+    "y": "49.8836772"
+  },
+  {
+    "ulica": "PADEREWSKIEGO 2",
+    "miasto": " LIBI\u0104\u017b",
+    "x": "19.3232089",
+    "y": "50.1034857"
+  },
+  {
+    "ulica": "Jana Paw\u0142a II 144",
+    "miasto": " Czarny Dunajec",
+    "x": "19.8402552",
+    "y": "49.4253685"
+  },
+  {
+    "ulica": "Pcim 599",
+    "miasto": " Pcim",
+    "x": "19.9714939",
+    "y": "49.7509386"
+  },
+  {
+    "ulica": "ul. Zdrojowa 14",
+    "miasto": " My\u015blenice",
+    "x": "19.948873",
+    "y": "49.821867"
+  },
+  {
+    "ulica": "BYSINA 284",
+    "miasto": " MY\u015aLENICE",
+    "x": "19.93965",
+    "y": "49.83347"
+  },
+  {
+    "ulica": "o\u015b.Kalinowe 11",
+    "miasto": " Krak\u00f3w",
+    "x": "20.0144479",
+    "y": "50.090961"
+  },
+  {
+    "ulica": "UL. KOCHANOWSKIEGO 1",
+    "miasto": " OLKUSZ",
+    "x": "19.5716755",
+    "y": "50.260558"
+  },
+  {
+    "ulica": "Os. Teatralne 33",
+    "miasto": " Krak\u00f3w",
+    "x": "20.030791",
+    "y": "50.0790228"
+  },
+  {
+    "ulica": "Sobieskiego 9",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9312537",
+    "y": "50.0682676"
+  },
+  {
+    "ulica": "Miechowity 4",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9648643",
+    "y": "50.0829753"
+  },
+  {
+    "ulica": "Grodzka 52",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9383095",
+    "y": "50.0573318"
+  },
+  {
+    "ulica": "Trzebi\u0144ska 15",
+    "miasto": " My\u015blachowice",
+    "x": "19.4778305",
+    "y": "50.1839917"
+  },
+  {
+    "ulica": "Grodkowice ul. Wiejska",
+    "miasto": " K\u0142aj",
+    "x": "20.2731212",
+    "y": "49.9747144"
+  },
+  {
+    "ulica": "Przys\u0142op 886",
+    "miasto": " Zawoja",
+    "x": "19.5630612",
+    "y": "49.6858376"
+  },
+  {
+    "ulica": "ul. Stradosmka 12a",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9404658",
+    "y": "50.0530018"
+  },
+  {
+    "ulica": "Jana Paw\u0142a II 25",
+    "miasto": " Szczawnica",
+    "x": "20.4829528",
+    "y": "49.4230451"
+  },
+  {
+    "ulica": "Sechna 123",
+    "miasto": " Ujanowice",
+    "x": "20.561301",
+    "y": "49.7442346"
+  },
+  {
+    "ulica": "os. Kolorowe 28",
+    "miasto": " Krak\u00f3w",
+    "x": "20.0230904",
+    "y": "50.0749675"
+  },
+  {
+    "ulica": "ul. LWOWSKA 24",
+    "miasto": " WADOWICE",
+    "x": "19.4966399",
+    "y": "49.8817095"
+  },
+  {
+    "ulica": "os. Jagiello\u0144skie 9",
+    "miasto": " Krak\u00f3w",
+    "x": "20.0238456",
+    "y": "50.0885026"
+  },
+  {
+    "ulica": "ul. Krowoderska 8 (sekretariat ul.STRADOMSKA 10)",
+    "miasto": " KRAK\u00d3W",
+    "x": "19.9403218",
+    "y": "50.0531489"
+  },
+  {
+    "ulica": "ul. Kluczborska 3",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9341755",
+    "y": "50.0870775"
+  },
+  {
+    "ulica": "Ropica Polska 70",
+    "miasto": " Gorlice - Ropica Polska",
+    "x": "21.140707",
+    "y": "49.6441898"
+  },
+  {
+    "ulica": "Tysi\u0105clecia 29",
+    "miasto": " Biecz",
+    "x": "21.2521939",
+    "y": "49.7351289"
+  },
+  {
+    "ulica": "Plac S\u0142owackiego 14",
+    "miasto": " Nowy Targ",
+    "x": "20.0286982",
+    "y": "49.4830037"
+  },
+  {
+    "ulica": "Legion\u00f3w 32",
+    "miasto": " Bydlin",
+    "x": "19.6418612",
+    "y": "50.3845401"
+  },
+  {
+    "ulica": "Biczyce Dolne 12",
+    "miasto": " Che\u0142miec",
+    "x": "20.6463924",
+    "y": "49.6325327"
+  },
+  {
+    "ulica": "p\u0142k. T. Semika 3",
+    "miasto": " Sucha Beskidzka",
+    "x": "19.593832",
+    "y": "49.739387"
+  },
+  {
+    "ulica": "Dobra 1",
+    "miasto": " Dobra",
+    "x": "13.0077132",
+    "y": "46.6920088"
+  },
+  {
+    "ulica": "M\u0141Y\u0143SKA BOCZNA 4",
+    "miasto": " KRAK\u00d3W",
+    "x": "19.9717997",
+    "y": "50.084086"
+  },
+  {
+    "ulica": "ul.Hallera 79",
+    "miasto": " Gorlice",
+    "x": "21.157774",
+    "y": "49.664038"
+  },
+  {
+    "ulica": "os. Z\u0142otego Wieku 4",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9998426",
+    "y": "50.0975699"
+  },
+  {
+    "ulica": "Nieca\u0142a 8",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9240707",
+    "y": "50.0164225"
+  },
+  {
+    "ulica": "Kasz\u00f3w 185",
+    "miasto": " Liszki",
+    "x": "19.7276702",
+    "y": "50.0186481"
+  },
+  {
+    "ulica": "ul. Kpt. Potiebni 7",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9449799",
+    "y": "50.0646501"
+  },
+  {
+    "ulica": "UL. KLIKUSZ\u00d3WKA 30",
+    "miasto": " NOWY TARG",
+    "x": "20.0138073",
+    "y": "49.492453"
+  },
+  {
+    "ulica": "Jurk\u00f3w",
+    "miasto": " Jurk\u00f3w",
+    "x": "20.2300478",
+    "y": "49.6779386"
+  },
+  {
+    "ulica": "Osielec 440",
+    "miasto": " Osielec",
+    "x": "19.7822663",
+    "y": "49.6805192"
+  },
+  {
+    "ulica": "Wenecja 6",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9258472",
+    "y": "50.060944"
+  },
+  {
+    "ulica": "Fredry 65\/71",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9423661",
+    "y": "50.0209137"
+  },
+  {
+    "ulica": "Janowice 1",
+    "miasto": " Wieliczka",
+    "x": "20.0138501",
+    "y": "49.9540518"
+  },
+  {
+    "ulica": "ul. Bujaka 15",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9514516",
+    "y": "50.0101459"
+  },
+  {
+    "ulica": "Kolejowa 7",
+    "miasto": " Jordan\u00f3w",
+    "x": "19.8297162",
+    "y": "49.647773"
+  },
+  {
+    "ulica": "ul. Jana Wiktora 7a",
+    "miasto": " Szczawnica",
+    "x": "20.485903",
+    "y": "49.4249181"
+  },
+  {
+    "ulica": "Wilczyce 109",
+    "miasto": " Jurk\u00f3w",
+    "x": "20.2150637",
+    "y": "49.6706917"
+  },
+  {
+    "ulica": "Pi\u0142sudskiego 91",
+    "miasto": " Limanowa",
+    "x": "20.407431",
+    "y": "49.71997"
+  },
+  {
+    "ulica": "os. Urocze 15",
+    "miasto": " Krak\u00f3w",
+    "x": "20.0371254",
+    "y": "50.0776294"
+  },
+  {
+    "ulica": "\u0141ukowica",
+    "miasto": " \u0141ukowica",
+    "x": "20.4829087",
+    "y": "49.6108537"
+  },
+  {
+    "ulica": "UL. ZAMOYSKIEGO 100",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9427221",
+    "y": "50.0364095"
+  },
+  {
+    "ulica": "O\u015b Gaj 32",
+    "miasto": " Trzebinia",
+    "x": "19.4429954",
+    "y": "50.2022131"
+  },
+  {
+    "ulica": "Jangrot 83",
+    "miasto": " Trzyci\u0105\u017c",
+    "x": "19.7451692",
+    "y": "50.3083792"
+  },
+  {
+    "ulica": "Miko\u0142aja Kopernika 28",
+    "miasto": " Nowy Targ",
+    "x": "20.0285299",
+    "y": "49.4734688"
+  },
+  {
+    "ulica": "UL. MAZOWIECKA 70",
+    "miasto": " KRAK\u00d3W",
+    "x": "19.9224623",
+    "y": "50.0759588"
+  },
+  {
+    "ulica": "UL. PIEKARSKA 14",
+    "miasto": " KRAK\u00d3W",
+    "x": "19.9397604",
+    "y": "50.0478671"
+  },
+  {
+    "ulica": "ul. Jerzmanowskiego 6",
+    "miasto": " Krak\u00f3w",
+    "x": "20.0071661",
+    "y": "50.0182312"
+  },
+  {
+    "ulica": "Konarskiego 4",
+    "miasto": " NOWA WIE\u015a",
+    "x": "19.3633521",
+    "y": "52.2207462"
+  },
+  {
+    "ulica": "Facimiech 38",
+    "miasto": " wielkie drogi",
+    "x": "19.7204438",
+    "y": "49.9588065"
+  },
+  {
+    "ulica": "Lanckorona 504",
+    "miasto": " Lanckorona",
+    "x": "19.7008191",
+    "y": "49.8401193"
+  },
+  {
+    "ulica": "ul. G. Zapolskiej 10c",
+    "miasto": " Krak\u00f3w",
+    "x": "19.8976276",
+    "y": "50.0765553"
+  },
+  {
+    "ulica": "Staszica 5",
+    "miasto": " Babice",
+    "x": "19.4479734",
+    "y": "50.0450451"
+  },
+  {
+    "ulica": "Armii Krajowej 19",
+    "miasto": " Gryb\u00f3w",
+    "x": "20.9522839",
+    "y": "49.6263081"
+  },
+  {
+    "ulica": "Jana Paw\u0142a 22",
+    "miasto": " Bolechowice",
+    "x": "19.803645",
+    "y": "50.1626456"
+  },
+  {
+    "ulica": "Ropa 780",
+    "miasto": " Ropa",
+    "x": "-101.5458111",
+    "y": "17.6336951"
+  },
+  {
+    "ulica": "Rokiciny Podhala\u0144skie 156",
+    "miasto": " Raba Wy\u017cna",
+    "x": "19.9645249",
+    "y": "49.5945584"
+  },
+  {
+    "ulica": "ZG\u0141OBICKA 4",
+    "miasto": " ZG\u0141OBICE",
+    "x": "20.906387",
+    "y": "49.9722102"
+  },
+  {
+    "ulica": "Sk\u0142odowskiej Curie 2",
+    "miasto": " Alwernia",
+    "x": "19.5425074",
+    "y": "50.0656348"
+  },
+  {
+    "ulica": "413",
+    "miasto": " Kobylanka",
+    "x": "22.9881465",
+    "y": "53.258406"
+  },
+  {
+    "ulica": "Bystra 353",
+    "miasto": " Bystra",
+    "x": "21.5361812",
+    "y": "48.9999297"
+  },
+  {
+    "ulica": "Topolowa 22",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9531232",
+    "y": "50.0669241"
+  },
+  {
+    "ulica": "Jaworzna",
+    "miasto": " Laskowa",
+    "x": "20.4968097",
+    "y": "49.7514155"
+  },
+  {
+    "ulica": "ul. Batorego 76",
+    "miasto": " Nowy S\u0105cz",
+    "x": "20.7000972",
+    "y": "49.6095968"
+  },
+  {
+    "ulica": "UL. WOJSKA POLSKIEGO 13",
+    "miasto": " WADOWICE",
+    "x": "19.491116",
+    "y": "49.8891193"
+  },
+  {
+    "ulica": "ul.Jab\u0142onkowska 39",
+    "miasto": " Krak\u00f3w",
+    "x": "19.8863277",
+    "y": "50.0779155"
+  },
+  {
+    "ulica": "Partyzant\u00f3w 1\/5",
+    "miasto": " Zakopane",
+    "x": "19.9520238",
+    "y": "49.2906266"
+  },
+  {
+    "ulica": "Mickiewicza 11 a",
+    "miasto": " Skawina",
+    "x": "19.8226001",
+    "y": "49.975682"
+  },
+  {
+    "ulica": "ul.Ko\u015bciuszki 10",
+    "miasto": " Chrzan\u00f3w",
+    "x": "19.3985396",
+    "y": "50.1416635"
+  },
+  {
+    "ulica": "R. Ingardena 3",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9202718",
+    "y": "50.0623944"
+  },
+  {
+    "ulica": "Grodzka 34",
+    "miasto": " Nowy S\u0105cz",
+    "x": "20.7016553",
+    "y": "49.6138978"
+  },
+  {
+    "ulica": "Nieszkowice Wielkie 67",
+    "miasto": " Bochnia",
+    "x": "20.4589891",
+    "y": "49.9182106"
+  },
+  {
+    "ulica": "ul. Fr.Nullo 36",
+    "miasto": " Olkusz",
+    "x": "19.5656869",
+    "y": "50.2813157"
+  },
+  {
+    "ulica": "Al. Modrzewiowa 23",
+    "miasto": " Krak\u00f3w",
+    "x": "19.8650048",
+    "y": "50.0643886"
+  },
+  {
+    "ulica": "Sportowa 2",
+    "miasto": " Modlnica",
+    "x": "19.8625604",
+    "y": "50.1298896"
+  },
+  {
+    "ulica": "K\u0142uszy\u0144ska 46",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9132671",
+    "y": "49.991102"
+  },
+  {
+    "ulica": "ul. Pi\u0142sudskiego 34",
+    "miasto": " Poronin",
+    "x": "20.006809",
+    "y": "49.339319"
+  },
+  {
+    "ulica": "Kostka Jagie\u0142\u0142y 8",
+    "miasto": " Jawiszowice",
+    "x": "19.1868965",
+    "y": "49.9523883"
+  },
+  {
+    "ulica": "Bielska 59",
+    "miasto": " Bulowice",
+    "x": "19.2932025",
+    "y": "49.874785"
+  },
+  {
+    "ulica": "Jod\u0142owa 23",
+    "miasto": " Krak\u00f3w",
+    "x": "19.8726855",
+    "y": "50.0511889"
+  },
+  {
+    "ulica": "Szkolna 50",
+    "miasto": " Zabierz\u00f3w",
+    "x": "19.8037295",
+    "y": "50.1145653"
+  },
+  {
+    "ulica": "Starowi\u015blna 7",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9428468",
+    "y": "50.0587796"
+  },
+  {
+    "ulica": "al. Dygasi\u0144skiego 25",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9898443",
+    "y": "50.0212647"
+  },
+  {
+    "ulica": "D\u0104BROWICA 161",
+    "miasto": " SZCZUCIN K. TARNOWA",
+    "x": "20.9858407",
+    "y": "50.0121011"
+  },
+  {
+    "ulica": "Kamieniec 46",
+    "miasto": " Nowa Bia\u0142a",
+    "x": "18.2812783",
+    "y": "50.8318744"
+  },
+  {
+    "ulica": "Niepodleg\u0142o\u015bci 11",
+    "miasto": " BUKOWNO",
+    "x": "19.4590925",
+    "y": "50.2654592"
+  },
+  {
+    "ulica": "Rytro 99",
+    "miasto": " Rytro",
+    "x": "20.6866121",
+    "y": "49.4890158"
+  },
+  {
+    "ulica": "\u017babia 20",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9961444",
+    "y": "50.0171051"
+  },
+  {
+    "ulica": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego 139",
+    "miasto": " Zag\u00f3rze",
+    "x": "22.26267",
+    "y": "49.502432"
+  },
+  {
+    "ulica": "ul. Studencka 13",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9299313",
+    "y": "50.0626526"
+  },
+  {
+    "ulica": "Radocza 31 A",
+    "miasto": " Wadowice",
+    "x": "19.4709331",
+    "y": "49.9194799"
+  },
+  {
+    "ulica": "\u017babia 20",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9961444",
+    "y": "50.0171051"
+  },
+  {
+    "ulica": "Czu\u0142\u00f3wek 85",
+    "miasto": " Rybna",
+    "x": "19.6472222",
+    "y": "50.0511111"
+  },
+  {
+    "ulica": "Aleja Parkowa 1",
+    "miasto": " O\u015bwi\u0119cim",
+    "x": "19.2198182",
+    "y": "50.0342463"
+  },
+  {
+    "ulica": "Laskowa 2",
+    "miasto": " Laskowa",
+    "x": "20.4512376",
+    "y": "49.7596726"
+  },
+  {
+    "ulica": "Topolowa 16",
+    "miasto": " Ska\u0142a",
+    "x": "19.849967",
+    "y": "50.232569"
+  },
+  {
+    "ulica": "Wo\u017aniki 236",
+    "miasto": " Wo\u017aniki",
+    "x": "19.1298614",
+    "y": "50.5989553"
+  },
+  {
+    "ulica": "ul.piramowicza 16",
+    "miasto": " nowy s\u0105cz",
+    "x": "20.6869391",
+    "y": "49.5987462"
+  },
+  {
+    "ulica": "Winiary 169",
+    "miasto": " Gd\u00f3w",
+    "x": "20.134002",
+    "y": "49.9004915"
+  },
+  {
+    "ulica": "Jagie\u0142\u0142y 12",
+    "miasto": " \u017babno",
+    "x": "20.8891651",
+    "y": "50.1331167"
+  },
+  {
+    "ulica": "ul. Wr\u00f3blewskiego 8",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9395746",
+    "y": "50.0694825"
+  },
+  {
+    "ulica": "OBIDZA 206",
+    "miasto": " JAZOWSKO",
+    "x": "20.5131169",
+    "y": "49.5286754"
+  },
+  {
+    "ulica": "Stachiewicza 33",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9170562",
+    "y": "50.0860984"
+  },
+  {
+    "ulica": "os. Zgody 13",
+    "miasto": " Krak\u00f3w",
+    "x": "20.034855",
+    "y": "50.076798"
+  },
+  {
+    "ulica": "Prosz\u00f3wki 365",
+    "miasto": " Bochnia",
+    "x": "20.4282873",
+    "y": "50.0030245"
+  },
+  {
+    "ulica": "o\u015b. Z\u0142otego Wieku 36",
+    "miasto": " Krak\u00f3w",
+    "x": "20.0037477",
+    "y": "50.0977858"
+  },
+  {
+    "ulica": "Siewna 23c",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9490929",
+    "y": "50.0933366"
+  },
+  {
+    "ulica": "TOPORZYSKO 166",
+    "miasto": " JORDAN\u00d3W",
+    "x": "19.83001",
+    "y": "49.64913"
+  },
+  {
+    "ulica": "Lask\u00f3wka Chor\u0105ska 51",
+    "miasto": " Dabrowa Tarnowska",
+    "x": "20.9712345",
+    "y": "50.1224994"
+  },
+  {
+    "ulica": "ZAMKOWA 3",
+    "miasto": " BABICE K. ALWERNI",
+    "x": "19.4443509",
+    "y": "50.0725095"
+  },
+  {
+    "ulica": "Nowotarska 42",
+    "miasto": " Zakopane",
+    "x": "19.9584935",
+    "y": "49.3035247"
+  },
+  {
+    "ulica": "Wiejska 361",
+    "miasto": " K\u0142aj",
+    "x": "20.2141225",
+    "y": "50.0114647"
+  },
+  {
+    "ulica": "Parkoszowice 45",
+    "miasto": " Miech\u00f3w",
+    "x": "19.4634335",
+    "y": "50.5385517"
+  },
+  {
+    "ulica": "Modrzejewskiej 21",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9158653",
+    "y": "50.0884444"
+  },
+  {
+    "ulica": "Pl. Kazmierza Wielkiego 1",
+    "miasto": " Niepo\u0142omice",
+    "x": "20.2165334",
+    "y": "50.0359309"
+  },
+  {
+    "ulica": "os. Tysi\u0105clecia 57",
+    "miasto": " Krak\u00f3w",
+    "x": "19.9992526",
+    "y": "50.0920782"
+  }
+]
